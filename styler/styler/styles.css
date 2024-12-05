@@ -1,0 +1,18 @@
+form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 30px;
+    border: 1px solid #e0b9b9;
+    border-radius: 5px;
+    background: #ffefef
+  }
+input:focus {
+    background-color: #ff9f9f;
+    color: rgb(0, 0, 0);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff9f9f ;
+    background-color: rgb(0, 0, 0);
+    font-size: medium;
+}
